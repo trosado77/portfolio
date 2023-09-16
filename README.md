@@ -21,5 +21,5 @@
 
 ### Policy & Program Analysis
   * Associate Director, Law Enforcement Programs, CFO, US Department of Homeland Security
-  * Program Examiner, Homeland, Transportation, Education Branches of the White House Office of Management & Budget (OMB)
+  * Program Examiner, Homeland, Transportation, Education Branches of the White House OMB
   * Legislative Assistant, US House of Representatives
