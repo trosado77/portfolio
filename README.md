@@ -3,7 +3,7 @@
 ## Education & Certifications
 * Data Analytics Bootcamp - Summer 2023, Virginia Tech University
 * MPA, Master of Public Administration, The George Washington University
-* BS, Business Administration, SUNY at Brockport
+* BS, Bachelor of Science - Business Administration, SUNY at Brockport
 
 * Certifications: Tableau Desktop Specialist, AWS Cloud Foundations
 
