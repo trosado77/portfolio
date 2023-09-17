@@ -2,8 +2,12 @@
 
 ## Projects
 
-
-
+ * **Aviation Delays - How Bad Are They?** (Python)
+   This project encompassed the review of aviation data to determine the scope
+   and extent of aviation delays. The review utilized a ~500K dataset
+   representing a sample of a ~2M federal dataset that contained flight
+   time performance information of all US flights between 1987 and 2020.
+ 
 ## Data Analyst Skills
 * Python, SQL, Tableau, Excel
 
@@ -16,11 +20,11 @@
 
 ## Professional Experience
 ### Public Financial Leadership
-  * CFO & CAO, International Trade Administration, Commerce
-  * Budget Director, Patent & Trademark Office, Commerce
-  * Budget Chief, Citizenship & Immigration Services, Homeland Security
+* CFO & CAO, International Trade Administration, US Dept. of Commerce
+* Budget Director, Patent & Trademark Office, US Dept. of Commerce
+* Budget Chief, Citizenship& Immigration Services, US Dept. of Homeland Security
 
 ### Policy & Program Analysis
-  * Associate Director, Law Enforcement Programs, CFO, Homeland Security
-  * Program Examiner, White House Office of Management & Budget
-  * Legislative Assistant, US House of Representatives
+* Associate Director, Office of the CFO, US Dept. of Homeland Security
+* Program Examiner, White House Office of Management & Budget
+* Legislative Assistant, US House of Representatives
