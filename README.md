@@ -23,11 +23,11 @@
 
 ## Professional Experience
 ### Public Financial Leadership
-* CFO & CAO, International Trade Administration, US Dept. of Commerce
-* Budget Director, Patent & Trademark Office, US Dept. of Commerce
-* Budget Chief, Citizenship& Immigration Services, US Dept. of Homeland Security
+* CFO & CAO, ITA, US Department of Commerce
+* Budget Director, USPTO, US Department of Commerce
+* Budget Chief, USCIS , US Department of Homeland Security
 
 ### Policy & Program Analysis
-* Associate Director, Office of the CFO, US Dept. of Homeland Security
+* Associate Director, CFO, US Department of Homeland Security
 * Program Examiner, White House Office of Management & Budget
 * Legislative Assistant, US House of Representatives
