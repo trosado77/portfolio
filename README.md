@@ -7,8 +7,10 @@
    and extent of aviation delays. The review utilized a ~500K dataset
    representing a sample of a ~2M federal dataset that contained flight
    time performance information of all US flights between 1987 and 2020.
-   [see notebook]
-   [see PPT summizing findings]
+   
+   [see notebook](https://github.com/trosado77/portfolio/blob/main/Air%20Travel%20Delays_How%20Bad%20Are%20They%3F_tr.ipynb)
+   
+   [see summary findings (PPT)]
  
 ## Data Analyst Skills
 * Python, SQL, Tableau, Excel
