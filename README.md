@@ -7,6 +7,8 @@
    and extent of aviation delays. The review utilized a ~500K dataset
    representing a sample of a ~2M federal dataset that contained flight
    time performance information of all US flights between 1987 and 2020.
+   [see notebook]
+   [see PPT summizing findings]
  
 ## Data Analyst Skills
 * Python, SQL, Tableau, Excel
