@@ -10,8 +10,8 @@
    
    [see notebook](https://github.com/trosado77/portfolio/blob/main/Air%20Travel%20Delays_How%20Bad%20Are%20They%3F_tr.ipynb)
    
-   [see summary findings (PPT)]
- 
+   [see summary findings (PPT)](https://github.com/trosado77/portfolio/blob/main/AviationDelayProject_8-2023_tr.pdf)
+   
 ## Data Analyst Skills
 * Python, SQL, Tableau, Excel
 
