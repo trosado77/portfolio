@@ -8,7 +8,7 @@
    sample of a ~2 million federal dataset containing flight time performance
    information of all US flights between 1987 and 2020.
    
-   [see the notebook](https://github.com/trosado77/portfolio/blob/main/Air%20Travel%20Delays_How%20Bad%20Are%20They%3F_tr.ipynb)
+   [see the Python/Jupyter notebook](https://github.com/trosado77/portfolio/blob/main/Air%20Travel%20Delays_How%20Bad%20Are%20They%3F_tr.ipynb)
 
    [see the summary findings (PPT)](https://github.com/trosado77/portfolio/blob/main/AviationDelayProject_8-2023_tr.pdf)
    
