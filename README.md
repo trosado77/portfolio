@@ -17,7 +17,7 @@
   communities with information about the details about chemical releases of specific facilities and also to help companies plan and execute sustainability programs.
   This project encompassed the exploration of more than 157,400 toxic release records for 2022.
 
-  [see the SQL/DBeaver notebook]()
+  [see the SQL/DBeaver notebook](https://github.com/trosado77/portfolio/blob/main/ToxinsProject_tar.sql)
    
 ## Data Analyst Skills
 * Python, SQL, Tableau, Excel
