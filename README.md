@@ -11,6 +11,13 @@
    [see the Python/Jupyter notebook](https://github.com/trosado77/portfolio/blob/main/Air%20Travel%20Delays_How%20Bad%20Are%20They%3F_tr.ipynb)
 
    [see the summary findings (PPT)](https://github.com/trosado77/portfolio/blob/main/AviationDelayProject_8-2023_tr.pdf)
+
+* **U.S. Toxic Chemical Releases - 2022** (SQL)
+  The U.S. Environmental Protection Agency's (EPA) annual Toxics Release Inventory (TRI) is used, among other things, to provide local 
+  communities with information about the details about chemical releases of specific facilities and also to help companies plan and execute sustainability programs.
+  This project encompassed the exploration of more than 157,400 toxic release records for 2022.
+
+  [see the SQL/DBeaver notebook]()
    
 ## Data Analyst Skills
 * Python, SQL, Tableau, Excel
